@@ -1,0 +1,6 @@
+[20-May-2018 07:15:28 UTC] PHP Warning:  require(/home/backbenc/public_html/demo/Blog_cms/../blog_cms/vendor/autoload.php): failed to open stream: No such file or directory in /home/backbenc/public_html/demo/Blog_cms/index.php on line 24
+[20-May-2018 07:15:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/backbenc/public_html/demo/Blog_cms/../blog_cms/vendor/autoload.php' (include_path='.:/usr/php4/lib/php:/usr/local/php4/lib/php:/usr/lib/php:/usr/local/lib/php:/home/backbenc/php') in /home/backbenc/public_html/demo/Blog_cms/index.php on line 24
+[20-May-2018 07:18:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/backbenc/public_html/demo/Blog_cms/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[20-May-2018 08:16:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/backbenc/public_html/demo/Blog_cms/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[20-May-2018 08:22:47 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/backbenc/public_html/demo/Blog_cms/app/Post.php on line 10
+[20-May-2018 08:27:32 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/backbenc/public_html/demo/Blog_cms/app/Post.php on line 10
